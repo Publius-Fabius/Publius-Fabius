@@ -1,6 +1,6 @@
 ```
 There are some repos
 Which you may peruse
-Clone them too
+Clone one too
 If you so choose
 ```
